@@ -9,6 +9,9 @@
     "homepage": "http://framework.zend.com/",
     "require": {
         "php": ">=5.3.3",
-        "zendframework/zendframework": "~2.4"
+        "zendframework/zendframework": "~2.4",
+        "dlu/dlutwbootstrap": "dev-master",
+        "doctrine/doctrine-orm-module": "^0.9.0",
+        "zendframework/zend-developer-tools": "dev-master"
     }
 }
